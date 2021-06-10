@@ -1,4 +1,4 @@
 # hello-world
 Initial use test
 
-I am relearning javascript.
+I am relearning javascript. More trsining pending...
